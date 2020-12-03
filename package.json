@@ -1,0 +1,21 @@
+{
+    "name": "quartz",
+    "displayName": "Quartz",
+    "description": "Dark theme with soft pastel colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quartz",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quartz-color-theme.json"
+            }
+        ]
+    }
+}
