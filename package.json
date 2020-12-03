@@ -1,7 +1,12 @@
 {
     "name": "quartz",
+    "publisher": "Hugues",
     "displayName": "Quartz",
     "description": "Dark theme with soft pastel colors",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hugues31/Quartz.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
@@ -10,12 +15,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Quartz",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Quartz-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Quartz",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Quartz-color-theme.json"
+        }]
     }
 }
