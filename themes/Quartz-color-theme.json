@@ -2,10 +2,23 @@
 	"name": "Quartz",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#1d1d1d",
+		"editor.foreground": "#cfcfcf",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#1d1d1d",
+		"sideBar.border": "#161616",
+		"sideBarSectionHeader.background": "#161616",
+		"activityBar.background": "#1d1d1d",
+		"tab.activeBackground": "#1d1d1d",
+		"tab.inactiveBackground": "#1d1d1d",
+		"tab.hoverBackground": "#003457",
+		"editorLineNumber.foreground": "#333333",
+		"editor.lineHighlightBackground": "#ffffff10",
+		"editorCursor.foreground": "#0099ff",
+		"editor.selectionHighlightBackground": "#0099ff41",
+		"editorBracketMatch.background": "#0099ff41",
+		"editorIndentGuide.background": "#222222"
 	},
 	"tokenColors": [
 		{
