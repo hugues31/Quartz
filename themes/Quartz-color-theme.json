@@ -18,7 +18,14 @@
 		"editorCursor.foreground": "#0099ff",
 		"editor.selectionHighlightBackground": "#0099ff41",
 		"editorBracketMatch.background": "#0099ff41",
-		"editorIndentGuide.background": "#222222"
+		"editorIndentGuide.background": "#222222",
+		"menu.background": "#1d1d1d",
+		"panel.border": "#161616",
+		"debugToolBar.background": "#1d1d1d",
+		"statusBar.background": "#1d1d1d",
+		"statusBar.foreground": "#cfcfcf",
+		"editorGroupHeader.tabsBackground": "#1d1d1d",
+		"tab.border": "#000",
 	},
 	"tokenColors": [
 		{
