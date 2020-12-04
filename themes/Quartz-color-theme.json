@@ -26,6 +26,8 @@
 		"statusBar.foreground": "#cfcfcf",
 		"editorGroupHeader.tabsBackground": "#1d1d1d",
 		"tab.border": "#000",
+		"statusBarItem.remoteBackground": "#1d1d1d",
+		"titleBar.activeBackground": "#1d1d1d"
 	},
 	"tokenColors": [
 		{
