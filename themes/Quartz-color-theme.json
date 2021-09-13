@@ -27,7 +27,7 @@
 		"editorGroupHeader.tabsBackground": "#111111",
 		"tab.border": "#000",
 		"statusBarItem.remoteBackground": "#111111",
-		"titleBar.activeBackground": "#1d1d1d",
+		"titleBar.activeBackground": "#111111",
 		"list.activeSelectionBackground": "#1d1d1d",
 		"list.inactiveSelectionBackground": "#1d1d1d",
 		"input.background": "#1d1d1d",
