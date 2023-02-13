@@ -2,41 +2,50 @@
 	"name": "Quartz",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1d1d1d",
-		"editor.foreground": "#cfcfcf",
-		"activityBarBadge.background": "#007acc",
+		"editor.background": "#1b1b1b",
+		"editor.foreground": "#ffffff",
+		"activityBarBadge.background": "#00b7ff",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#111111",
-		"sideBar.border": "#111111",
-		"sideBarSectionHeader.background": "#111111",
-		"activityBar.background": "#111111",
-		"tab.activeBackground": "#1d1d1d",
-		"tab.inactiveBackground": "#111111",
+		"sideBar.background": "#000000",
+		"sideBar.border": "#000000",
+		"sideBarSectionHeader.background": "#000000",
+		"activityBar.background": "#000000",
+		"tab.activeBackground": "#1b1b1b",
+		"tab.inactiveBackground": "#000000",
 		"tab.hoverBackground": "#003457",
-		"editorLineNumber.foreground": "#333333",
+		"editorLineNumber.foreground": "#494949",
 		"editor.lineHighlightBackground": "#ffffff10",
-		"editorCursor.foreground": "#0099ff",
-		"editor.selectionHighlightBackground": "#0099ff41",
-		"editorBracketMatch.background": "#0099ff41",
+		"editorCursor.foreground": "#00b7ff",
+		"editor.selectionHighlightBackground": "#00b7ff41",
+		"editorBracketMatch.background": "#00b7ff41",
 		"editorIndentGuide.background": "#222222",
-		"menu.background": "#111111",
-		"panel.border": "#111111",
-		"debugToolBar.background": "#1d1d1d",
-		"statusBar.background": "#111111",
+		"menu.background": "#000000",
+		"panel.border": "#000000",
+		"debugToolBar.background": "#1b1b1b",
+		"statusBar.background": "#000000",
 		"statusBar.foreground": "#cfcfcf",
-		"editorGroupHeader.tabsBackground": "#111111",
+		"editorGroupHeader.tabsBackground": "#000000",
 		"tab.border": "#000",
-		"statusBarItem.remoteBackground": "#111111",
-		"titleBar.activeBackground": "#111111",
-		"list.activeSelectionBackground": "#1d1d1d",
-		"list.inactiveSelectionBackground": "#1d1d1d",
-		"input.background": "#1d1d1d",
-		"peekViewResult.background": "#1d1d1d",
-		"peekViewEditor.background": "#1d1d1d",
-		"quickInput.background": "#1d1d1d",
-		"editorWidget.background": "#1d1d1d",
+		"statusBarItem.remoteBackground": "#000000",
+		"titleBar.activeBackground": "#000000",
+		"list.activeSelectionBackground": "#1b1b1b",
+		"list.inactiveSelectionBackground": "#1b1b1b",
+		"input.background": "#1b1b1b",
+		"peekViewResult.background": "#1b1b1b",
+		"peekViewEditor.background": "#1b1b1b",
+		"quickInput.background": "#1b1b1b",
+		"editorWidget.background": "#1b1b1b",
 	},
 	"tokenColors": [
+		{
+			"name": "DocString",
+			"scope": [
+				"string.quoted.docstring",
+			],
+			"settings": {
+				"foreground": "#ffee00"
+			}
+		},
 		{
 			"name": "Comment",
 			"scope": [
@@ -129,7 +138,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -249,7 +258,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -259,7 +268,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -297,7 +306,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -364,7 +373,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -428,7 +437,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
@@ -567,7 +576,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b7ff"
 			}
 		},
 		{
