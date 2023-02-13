@@ -47,6 +47,15 @@
 			}
 		},
 		{
+			"name": "Constant",
+			"scope": [
+				"constant.language.python",
+			],
+			"settings": {
+				"foreground": "#ffe600"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
